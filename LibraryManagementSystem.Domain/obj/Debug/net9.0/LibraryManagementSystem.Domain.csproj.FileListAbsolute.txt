@@ -1,0 +1,11 @@
+C:\NewTask\LibraryManagementSystem\LibraryManagementSystem.Domain\bin\Debug\net9.0\LibraryManagementSystem.Domain.deps.json
+C:\NewTask\LibraryManagementSystem\LibraryManagementSystem.Domain\bin\Debug\net9.0\LibraryManagementSystem.Domain.dll
+C:\NewTask\LibraryManagementSystem\LibraryManagementSystem.Domain\bin\Debug\net9.0\LibraryManagementSystem.Domain.pdb
+C:\NewTask\LibraryManagementSystem\LibraryManagementSystem.Domain\obj\Debug\net9.0\LibraryManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\NewTask\LibraryManagementSystem\LibraryManagementSystem.Domain\obj\Debug\net9.0\LibraryManagementSystem.Domain.AssemblyInfoInputs.cache
+C:\NewTask\LibraryManagementSystem\LibraryManagementSystem.Domain\obj\Debug\net9.0\LibraryManagementSystem.Domain.AssemblyInfo.cs
+C:\NewTask\LibraryManagementSystem\LibraryManagementSystem.Domain\obj\Debug\net9.0\LibraryManagementSystem.Domain.csproj.CoreCompileInputs.cache
+C:\NewTask\LibraryManagementSystem\LibraryManagementSystem.Domain\obj\Debug\net9.0\LibraryManagementSystem.Domain.dll
+C:\NewTask\LibraryManagementSystem\LibraryManagementSystem.Domain\obj\Debug\net9.0\refint\LibraryManagementSystem.Domain.dll
+C:\NewTask\LibraryManagementSystem\LibraryManagementSystem.Domain\obj\Debug\net9.0\LibraryManagementSystem.Domain.pdb
+C:\NewTask\LibraryManagementSystem\LibraryManagementSystem.Domain\obj\Debug\net9.0\ref\LibraryManagementSystem.Domain.dll
